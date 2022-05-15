@@ -1,0 +1,12 @@
+---
+:id: 39319601
+:submitters:
+- :name: Jason Dang
+  :email: jdang2@umd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-06-23 23:51:39.431776000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-06-23 16:51:39.431776000 Z
+:status: processed
+:score: 100.0
